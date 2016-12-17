@@ -1,0 +1,11 @@
+Jornada 15
+ MAL 1 · 1 GRA 
+ OSA 0 · 3 FCB 
+ RSO 3 · 2 VAL 
+ PAL 1 · 1 LEG 
+ RMA 3 · 2 DEP 
+ EIB 0 · 0 ALA 
+ CEL 0 · 3 SEV 
+ ESP 2 · 1 SPO 
+ BET 1 · 0 ATH 
+ VIL 3 · 0 ATM 
